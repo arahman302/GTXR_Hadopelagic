@@ -237,7 +237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2609c54f376cffc4da1ab9401cc1a36f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _skeletonType: 5
+  _skeletonType: 1
   _updateRootPose: 0
   _updateRootScale: 1
   _enablePhysicsCapsules: 0
@@ -1035,17 +1035,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 674a40251fe8ad841b18517ac5209957, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &645097917 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1183558233436654739, guid: 566315f3a83d28341a878d894d4feca3, type: 3}
-  m_PrefabInstance: {fileID: 645097915}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a95044baf65b10c4e89b246d2f881ac9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &645097918 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6123252871959200369, guid: 566315f3a83d28341a878d894d4feca3, type: 3}
@@ -1527,7 +1516,7 @@ PrefabInstance:
     - target: {fileID: 1250439401588527297, guid: 87903eea09623ae4a9457dd17b46d93e, type: 3}
       propertyPath: _faceExpressions
       value: 
-      objectReference: {fileID: 645097917}
+      objectReference: {fileID: 0}
     - target: {fileID: 7710386818825989482, guid: 87903eea09623ae4a9457dd17b46d93e, type: 3}
       propertyPath: _skeletonToCopy
       value: 
@@ -1699,7 +1688,7 @@ PrefabInstance:
     - target: {fileID: 7876563877952736689, guid: 87903eea09623ae4a9457dd17b46d93e, type: 3}
       propertyPath: _faceExpressions
       value: 
-      objectReference: {fileID: 645097917}
+      objectReference: {fileID: 0}
     - target: {fileID: 8438906022740843477, guid: 87903eea09623ae4a9457dd17b46d93e, type: 3}
       propertyPath: m_Name
       value: HighFidelityMirrored
@@ -2121,7 +2110,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2609c54f376cffc4da1ab9401cc1a36f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _skeletonType: 4
+  _skeletonType: 0
   _updateRootPose: 0
   _updateRootScale: 1
   _enablePhysicsCapsules: 0

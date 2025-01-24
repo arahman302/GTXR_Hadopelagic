@@ -1,0 +1,8 @@
+C:/Users/arshi/OneDrive/Desktop/work/VGDev projects/GTXR_Hadopelagic/.utmp/RelWithDebInfo/2r2206uj/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/arshi/OneDrive/Desktop/work/VGDev projects/GTXR_Hadopelagic/.utmp/RelWithDebInfo/2r2206uj/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/arshi/OneDrive/Desktop/work/VGDev projects/GTXR_Hadopelagic/.utmp/RelWithDebInfo/2r2206uj/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/arshi/OneDrive/Desktop/work/VGDev projects/GTXR_Hadopelagic/.utmp/RelWithDebInfo/2r2206uj/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/arshi/OneDrive/Desktop/work/VGDev projects/GTXR_Hadopelagic/.utmp/RelWithDebInfo/2r2206uj/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/arshi/OneDrive/Desktop/work/VGDev projects/GTXR_Hadopelagic/.utmp/RelWithDebInfo/2r2206uj/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/arshi/OneDrive/Desktop/work/VGDev projects/GTXR_Hadopelagic/.utmp/RelWithDebInfo/2r2206uj/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/arshi/OneDrive/Desktop/work/VGDev projects/GTXR_Hadopelagic/.utmp/RelWithDebInfo/2r2206uj/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
